@@ -16,7 +16,7 @@ import twitter4j.conf.ConfigurationBuilder;
 
 /**
  *
- * @author dquimbiulco
+ @author david
  */
 public class Challengue {
 
